@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import 'aos/dist/aos.css';
+
+
+html {
+    scroll-behavior: smooth;
+    scroll-margin-top: 300px;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+ul li  a {
+    font-family: Libre Baskerville
+;
+}
+
+:root {
+    --gold-color :#EAB749;
+    --grey-color:#a4a4a4;
+
+}
+
